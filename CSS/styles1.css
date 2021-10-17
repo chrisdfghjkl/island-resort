@@ -1,0 +1,8 @@
+.banner{
+background-image: url("../IMG/beach-1236581.jpg");
+height: 50%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position:relative;
+}
