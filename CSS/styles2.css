@@ -1,21 +1,22 @@
 h1 {
-  color: seagreen;
+  color: black;
   text-align: center;
   font-style: italic;
   font-size: 50px
 }
 body {
-  background-color: lightsalmon;
+  background-color: white;
 }
 ul {
-  color: seagreen;
+  color: black;
   text-align: left;
   font-style: italic;
   font-size: 20px
 }
 p {
-  color: seagreen;
+  color: black;
   text-align: left;
   font-style: italic;
   font-size: 35px
 }
+
